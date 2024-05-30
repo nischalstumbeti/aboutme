@@ -1,10 +1,5 @@
-<<h1 align="center">Hi,This is  Nischal S Tumbeti 😊</h1>
-<h2 align="left">About me</h2>
-<p align="left">I'm a cybersecurity enthusiast with a deep passion for protecting digital environments and understanding the intricacies of cyber threats. My journey into the world of cybersecurity has been driven by curiosity and a relentless pursuit of knowledge.</p>
-<h2 align="left">I code with</h2>
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" height="40" alt="python logo"  />
-  <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
+<!-- Header Section -->
+<h1 align="center"><font face="Verdana">Hi 👋, I am Nischal S Tumbeti </font></h1>
+<h3 align="center"><font face="Verdana"><a href="https://www.linkedin.com/in/nischal-s-tumbeti-500845194/" target="_blank" rel="noreferrer"> Nischal S Tumbeti</a> cybersecurity enthusiast with a deep passion for protecting digital environments and understanding the intricacies of cyber threats. My journey into the world of cybersecurity has been driven by curiosity and a relentless pursuit of knowledge..</font></h3>
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
